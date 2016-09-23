@@ -1,4 +1,3 @@
-# language-detector-trigrams
 A simple language detector based on the frequency of trigrams within a piece of text.
 
 How to set the software up:
