@@ -4,7 +4,7 @@ How to set the software up:
 
 1. Download the software.
 
-2. Change the "path" variable of the program in line 7 to point to the path to the software - for example, in Windows, it might be "E:\Programs\LangRecog".
+2. Change the "path" variable of the program in line 7 to point to the path to the software - for example, it might be "/home/username/Downloads" in linux.
 
 3. Run the program.
 
